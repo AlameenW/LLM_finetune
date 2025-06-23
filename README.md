@@ -39,11 +39,6 @@ An intelligent assistant designed to classify news articles into the following c
 ## 📝 Notes
 - Preprocessing included tokenization and visualization via word clouds.
 - Evaluation was conducted using a held-out test dataset.
-- Create a UI for this project
 ---
 
-## 📂 Future Work (Optional)
-- Experiment with other models like GPT-4.
-- Incorporate multi-label classification for overlapping news categories.
-- Deploy model as an API for real-time inference.
 
